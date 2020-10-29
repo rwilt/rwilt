@@ -27,4 +27,4 @@ I'd love to work with you on a project or join your amazing team. Let's chat!
 
 - 🌹 Personal: https://rosie-wilt.com
 - 💼 LinkedIn: https://www.linkedin.com/in/rosie-wilt/
-- <a href="Dismantle racism and support Black Lives Matter (not curated by me):">https://pfw.guide/</a>
+- <a href="https://pfw.guide/">Dismantle racism and support Black Lives Matter (not curated by me)</a>
