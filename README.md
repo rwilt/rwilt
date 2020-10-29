@@ -1,1 +1,2 @@
-[![Header](https://data.whicdn.com/images/134661213/original.jpg)](https://rosie-wilt.com/)
+<!-- [![Header](https://data.whicdn.com/images/134661213/original.jpg)](https://rosie-wilt.com/) -->
+<div style="text-align:center"><img src="https://data.whicdn.com/images/134661213/original.jpg" /></div>
