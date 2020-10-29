@@ -1,2 +1,2 @@
 <!-- [![Header](https://data.whicdn.com/images/134661213/original.jpg)](https://rosie-wilt.com/) -->
-<img src="https://data.whicdn.com/images/134661213/original.jpg" width="42" height="42" style="vertical-align:middle;margin:0px 50px"/>
+<img src="https://data.whicdn.com/images/134661213/original.jpg" width="400" style="vertical-align:center;"/>
