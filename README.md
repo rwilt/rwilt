@@ -4,7 +4,7 @@
 </p>
 
 <!-- Currently I work as a freelance engineer for <a href="https://www.linkedin.com/company/peppercornhq/">Peppercorn</a>. Previously I worked in merchandising and sales at RE/DONE and Rag & Bone.  -->
-## Hey, I'm Rosie! 
+## Hey, I'm Rosie! 🤠
 
 I'm a software engineer based in Brooklyn, NY. I care about inclusivity, creativity, and meaningful action above transparency. My projects are centered around helping others and I'm looking for a role in tech that is aligned with those values. Outside of code, I like Buffy the Vampire Slayer (if you couldn't tell), waving at cute dogs on the street, and convincing everyone to watch Nathan For You (do it!).
 
