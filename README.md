@@ -23,7 +23,6 @@ I'm a Black, female (she/her) software engineer based in Brooklyn, NY. I care ab
 - Asana
 
 ## Contact Me
-I'd love to work with you on a project or join your amazing team. Let's chat! 
 
 - 🌹 Personal: https://rosie-wilt.com
 - 💼 LinkedIn: https://www.linkedin.com/in/rosie-wilt/
