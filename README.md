@@ -5,6 +5,6 @@
 
 ##  🤠
 
-- 🌹 Personal: https://rosie-wilt.com
-- 💼 LinkedIn: https://www.linkedin.com/in/rosie-wilt/
+- 🌹 https://rosie-wilt.com
+- 💼 https://www.linkedin.com/in/rosie-wilt/
 - <a href="https://pfw.guide/">Dismantle racism and support Black Lives Matter (not curated by me)</a>
