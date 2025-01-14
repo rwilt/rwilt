@@ -4,6 +4,4 @@
 
 ##  🤠
 
-- https://rosie-wilt.com
 - https://www.linkedin.com/in/rosie-wilt/
-- <a href="https://pfw.guide/">Black Lives Matter (not curated by me)</a>
