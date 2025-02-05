@@ -4,4 +4,4 @@
 
 ##  🤠
 
-- https://www.linkedin.com/in/rosie-wilt/
+- [https://www.linkedin.com/in/rosie-wilt/](https://www.linkedin.com/in/rosie-w-ilt/)
